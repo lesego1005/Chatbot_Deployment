@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ninth-psyche-475111-m6",
+  "private_key_id": "7b527aebbe7b6a11846d5d1035b4b740d9e7d77f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7RD8hv8ILY8X1\n8+ELarMSp9oqZ6f00mxsuNpfCUQ4GQ+UW4ZwNsDtjvc47zBQZ4y2Hod7JQlWawkO\nKKowq28PBJHiX0Rrt4mCZvRloeF1UUXrgGz1NifOWgp4qTzGHxww79zpJahqaURI\nSF1EkRuvALlTeXeAwUAu0kT2Hu5lLBksINdMuRq1FfOprCNbfNYG0y6n/0919zcV\nwQC0EemwwRPo4LhcNAOUSa8kggS6qmaJhjeSnLgVnWRJPG8u4wUa9aiW8MmhJdS3\nopDorWrWmjWlMrRkhv65BgnWXFm3WLXxPoa2WU3DUtomg4mnBxHy1geo5hwVVB41\nRmUmcCfPAgMBAAECggEAW/namhxhVY/FEJaeXymiV1Tayf4MV6osN8AY/RmDiJwC\nc2b6ok26N1ODKFMOY0dgrKhU+Y5Ixkme8nXVlT72NqWTc2BALjnAj6w6eFpobmMj\nGNaEbXGSXn8J6paQs2xfP8fntBlbXRxjva7RJFazBqKv44hiwfnoqLZ8yXeKtmR5\noOV3fQPhvpS+hCZPohO8hSqJ2m9+SKs+XtE78XzZ0BbOYrO4u1rFB6CrDeeMBFcj\npLZX9fZL1IkJcYhvUsKV5J5JlVmCHMNjNHszC68A7OG2zJyVEwEev1D9a3WdhFe5\nxLC4SFalkTSS2D07m11Clv636V7eeh4L3hj1XAk3kQKBgQDjlEZ7Gc785vEAStlf\nwZGjntxJNlyXmfQ0vN6dN7oMoGNB4bEe1x9qtrXMFIrEPMQ+L1LQwArwnq8/TrMb\nwhVl+TncAYfmoikBmzNamuY8291fJ5VbkrpmgmsR49WedBri74jrtczfvtMa9ceN\n5uHdpLnq37eSMNyPyLWQQWCR8QKBgQDSpyyIdE9yCZD/Vzq6uPHsq3BB2Qgikcz5\no1U76Ljx/DRNG2PbPHLDa3DAofHyoqQwumsJWswDhzIMclTseEza2rXkcCHv26z0\nlDez8NAyltZGSh1tT2TQ3jphLxHCvjD5nKghC0kuwWKeNtBaRueSXXDn3GT1lAZR\nysaz35KVvwKBgH2vS+V8cWYWnQ7OR5KssqQsffgo/6XyLn5ZuJAXULbcdTTTUiB4\nKi+jTG+zAJgz/yVguVn0VZZh7OMHsb8oxuyUYbHxXn6vG/p5HjlxxqnhuzZsA/6Y\n4Dzw1fUBYN6rvJWMOJAEzWrcVnZTOqxR0He6G7ttZlJkjcsSy8MpeA3hAoGBAJ9d\nxC4zuErw+9aBerf65WQEy3e1pxboMSeHrxsU1J6WDEdtel1JXRWE+hdyLWZAL3GC\nBypbm87rgCy0bpU76gEEx+lcAADDtBSQ8Zdbj1dGkDM7LQoer4npJkeR4aDwXILr\nRrNBI4uQ2HgTxgsWa2lq8dkn/uVfqGxGuY8pjG9nAoGAZb2DJ1kzOQymGuWUOZFV\nNG542NUJZeRldvQHYfaXZOQi43mkqyyCZf9Vraag/v29zRXCTNrHCRbvnrCnHZT1\n0RA1gx2FJPUL1G1aOO6U214qSztc7ylGlLvp1q5ri+FIY8ykTpRbIRO4bg7TwtZ2\n8R93sC2G/ARiNY8fCmVCsCE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbot-gemini-sa@ninth-psyche-475111-m6.iam.gserviceaccount.com",
+  "client_id": "114569610811095234451",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot-gemini-sa%40ninth-psyche-475111-m6.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

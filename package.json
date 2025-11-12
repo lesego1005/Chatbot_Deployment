@@ -2,7 +2,7 @@
   "name": "chatbot",
   "type": "module",
   "version": "1.0.0",
-  "description": "",
+  "description": "> *Breaking down code barriers, one line at a time ,k.*",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -17,5 +17,16 @@
     "express": "^5.1.0",
     "node-fetch": "^3.3.2",
     "uuid": "^13.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lesego1005/ChatBot_Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lesego1005/ChatBot_Project/issues"
+  },
+  "homepage": "https://github.com/lesego1005/ChatBot_Project#readme"
 }

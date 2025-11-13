@@ -3,3 +3,6 @@ node_modules/
 node_modules/
 .DS_Store
 .DS_Store
+# Secrets
+.env
+ninth-psyche-475111-m6-7b527aebbe7b.json

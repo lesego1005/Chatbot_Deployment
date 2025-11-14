@@ -57,6 +57,12 @@ No manual ZIP uploads or manual builds were required.
 ## ScreeenShots
 
 ### App Service overview
+![App Service](<app service overview.jpg>)
 
+### Environmental variables
+![Environmental variables](<configuration_env variables.png>)
+
+## Logs
+![Logs](<logs.jpg>)
 
 

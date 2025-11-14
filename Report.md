@@ -63,6 +63,6 @@ No manual ZIP uploads or manual builds were required.
 ![Environmental variables](<configuration_env variables.png>)
 
 ## Logs
-![Logs](<Logs.jpg>)
+![Logs](<logs.jpg>)
 
 

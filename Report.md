@@ -65,4 +65,7 @@ No manual ZIP uploads or manual builds were required.
 ## Logs
 ![Logs](<logs.jpg>)
 
+## Deployment folder structure
+![Folder structure](<folder structure.png>)
+
 
